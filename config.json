@@ -1,0 +1,53 @@
+{
+  "name": "Paulo Roberto",
+  "job": "Analista de Sistema",
+  "github": "Prdsilva80",
+  "playlists": {
+    "carros": [
+      {
+        "title": "Fiat Pulse Impetus no TESTE do Camanzi",
+        "url": "https://www.youtube.com/watch?v=x47FwF89O1o",
+        "thumb": "https://img.youtube.com/vi/x47FwF89O1o/hqdefault.jpg"
+      },
+      {
+        "title": "Chevrolet Cruze Premier 2020 com Wi-Fi a bordo - com Emilio Camanzi",
+        "url": "https://www.youtube.com/watch?v=ebN26gYc_Yw",
+        "thumb": "https://img.youtube.com/vi/ebN26gYc_Yw/hqdefault.jpg"
+      },
+      {
+        "title": "Volkswagen T-Cross 200 TSI - Teste do Emilio Camanzi",
+        "url": "https://www.youtube.com/watch?v=hOP-KYRBhdY",
+        "thumb": "https://img.youtube.com/vi/hOP-KYRBhdY/hqdefault.jpg"
+      }
+    ],
+    "front-end": [
+      {
+        "title": "",
+        "url": "",
+        "thumb": ""
+      },
+      {
+        "title": "",
+        "url": "",
+        "thumb": ""
+      },
+      {
+        "title": "",
+        "url": "",
+        "thumb": ""
+      }
+    ],
+    "back-end": [
+      {
+        "title": "",
+        "url": "",
+        "thumb": ""
+      },
+      {
+        "title": "",
+        "url": "",
+        "thumb": ""
+      }
+    ]
+  }
+}
