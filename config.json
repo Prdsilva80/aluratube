@@ -22,31 +22,31 @@
     ],
     "front-end": [
       {
-        "title": "",
-        "url": "",
-        "thumb": ""
+        "title": "ReactJS em 1h - Componentes - Iniciantes",
+        "url": "https://www.youtube.com/watch?v=K65wUN-2no4",
+        "thumb": "https://img.youtube.com/vi/K65wUN-2no4/hqdefault.jpg"
       },
       {
-        "title": "",
-        "url": "",
-        "thumb": ""
+        "title": "COMO COMEÇAR NA PROGRAMAÇÃO EM 2022?",
+        "url": "https://www.youtube.com/watch?v=EOGN5ltRqOc",
+        "thumb": "https://img.youtube.com/vi/EOGN5ltRqOc/hqdefault.jpg"
       },
       {
-        "title": "",
-        "url": "",
-        "thumb": ""
+        "title": "A nova melhor maneira de fazer CSS (+ Acessibilidade) | Decode #027",
+        "url": "https://www.youtube.com/watch?v=uraRXlkknRo",
+        "thumb": "https://img.youtube.com/vi/uraRXlkknRo/hqdefault.jpg"
       }
     ],
     "back-end": [
       {
-        "title": "",
-        "url": "",
-        "thumb": ""
+        "title": "Semana Dev 360 - Backend",
+        "url": "https://www.youtube.com/watch?v=FkSAAj_ra8o",
+        "thumb": "https://img.youtube.com/vi/FkSAAj_ra8o/hqdefault.jpg"
       },
       {
-        "title": "",
-        "url": "",
-        "thumb": ""
+        "title": "Crie um back-end para sua aplicação com DJANGO | #01",
+        "url": "https://www.youtube.com/watch?v=KxGkKX6kSSo",
+        "thumb": "https://img.youtube.com/vi/KxGkKX6kSSo/hqdefault.jpg"
       }
     ]
   }
